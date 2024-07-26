@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1721837473078
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721924654449
+  login: 1721922147143
+money: '0.0'
+last-account-name: tabi_the_girl
+logoutlocation:
+  world: eb4ebd51-ca0f-48ef-8fb5-5a445724a4fd
+  world-name: world
+  x: -7549.079594576184
+  y: 161.0
+  z: -7587.1471227009
+  yaw: -116.7958984375
+  pitch: 19.06698989868164
+lastlocation:
+  world: eb4ebd51-ca0f-48ef-8fb5-5a445724a4fd
+  world-name: world
+  x: -7569.051275271247
+  y: 155.0
+  z: -7593.432589500015
+  yaw: -131.72784423828125
+  pitch: -0.040688201785087585

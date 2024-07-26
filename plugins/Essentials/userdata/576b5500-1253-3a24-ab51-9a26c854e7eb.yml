@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721924604151
+  login: 1721922572943
+money: '0.0'
+last-account-name: TK_xCandy
+logoutlocation:
+  world: eb4ebd51-ca0f-48ef-8fb5-5a445724a4fd
+  world-name: world
+  x: -7757.204450882595
+  y: 73.5
+  z: -7704.092224372284
+  yaw: 95.38330078125
+  pitch: 21.600067138671875

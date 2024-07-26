@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1721912552903
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721913311119
+  login: 1721913199852
+money: '0.0'
+last-account-name: CuDeFresh
+logoutlocation:
+  world: eb4ebd51-ca0f-48ef-8fb5-5a445724a4fd
+  world-name: world
+  x: -7704.5
+  y: 63.0
+  z: -7582.5
+  yaw: 70.5411376953125
+  pitch: 10.499645233154297
+lastlocation:
+  world: eb4ebd51-ca0f-48ef-8fb5-5a445724a4fd
+  world-name: world
+  x: -7837.960255126196
+  y: -46.768476202412984
+  z: -7587.8210920136125
+  yaw: 115.82247924804688
+  pitch: 80.70000457763672

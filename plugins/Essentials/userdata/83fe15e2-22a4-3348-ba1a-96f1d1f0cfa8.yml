@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1721923834724
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721928152597
+  login: 1721922082143
+money: '0.0'
+last-account-name: AymAlts
+logoutlocation:
+  world: eb4ebd51-ca0f-48ef-8fb5-5a445724a4fd
+  world-name: world
+  x: -7672.563967641917
+  y: 69.0
+  z: -7675.07809743276
+  yaw: 168.90626525878906
+  pitch: 3.4500107765197754
+lastlocation:
+  world: eb4ebd51-ca0f-48ef-8fb5-5a445724a4fd
+  world-name: world
+  x: -7632.573188366368
+  y: -31.0
+  z: -8023.09554537374
+  yaw: -136.5360107421875
+  pitch: 15.770751953125
